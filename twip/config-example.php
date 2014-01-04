@@ -1,0 +1,12 @@
+<?php
+define('OAUTH_KEY','f6VTjw1Gr8fZhIo77xnGJg');
+define('OAUTH_SECRET','1Aas5DzzPWbFRpx4CsGwC0sWHBGmjBWQ27284urN2o');
+define('OAUTH_KEY_GET',OAUTH_KEY);
+define('OAUTH_SECRET_GET',OAUTH_SECRET);
+define('BASE_URL','');
+define('API_VERSION','1.1');
+define('DEBUG',FALSE);
+define('DOLOG',FALSE);
+define('COMPRESS',FALSE);
+define('O_MODE_PARSE_ENTITIES',FALSE);
+?>
